@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE recipe_system SYSTEM "recipe.dtd">
+<recipe_system>
+<users>
+<user>
+<name>Laura</name>
+<surname>Eraso</surname>
+<skill_level>Intermediate</skill_level>
+<preferred_cuisine>Italian</preferred_cuisine>
+</user>
+<user><name>Laura</name><surname>User</surname><skill_level>Intermediate</skill_level><preferred_cuisine>Italian</preferred_cuisine></user></users>
+<recipes>
+  <recipe>
+    <title>Creamy pumpkin pasta</title>
+    <cuisine_type1>Mexican</cuisine_type1>
+    <cuisine_type2>Asian</cuisine_type2>
+    <difficulty>Advanced</difficulty>
+  </recipe>
+  <recipe>
+    <title>Sausage, mustard &amp; apple hash</title>
+    <cuisine_type1>Indian</cuisine_type1>
+    <cuisine_type2>French</cuisine_type2>
+    <difficulty>Advanced</difficulty>
+  </recipe>
+  <recipe>
+    <title>Mushroom stroganoff</title>
+    <cuisine_type1>Indian</cuisine_type1>
+    <cuisine_type2>Asian</cuisine_type2>
+    <difficulty>Intermediate</difficulty>
+  </recipe>
+  <recipe>
+    <title>App onlyButternut squash &amp; white bean tagliatelle. This is a premium piece of content available to subscribed users.</title>
+    <cuisine_type1>Mexican</cuisine_type1>
+    <cuisine_type2>French</cuisine_type2>
+    <difficulty>Advanced</difficulty>
+  </recipe>
+  <recipe>
+    <title>Beetroot &amp; feta pasta</title>
+    <cuisine_type1>Indian</cuisine_type1>
+    <cuisine_type2>Italian</cuisine_type2>
+    <difficulty>Beginner</difficulty>
+  </recipe>
+  <recipe>
+    <title>Pork &amp; apple burgers</title>
+    <cuisine_type1>Italian</cuisine_type1>
+    <cuisine_type2>Italian</cuisine_type2>
+    <difficulty>Advanced</difficulty>
+  </recipe>
+  <recipe>
+    <title>Mushroom soup</title>
+    <cuisine_type1>Asian</cuisine_type1>
+    <cuisine_type2>Indian</cuisine_type2>
+    <difficulty>Advanced</difficulty>
+  </recipe>
+  <recipe>
+    <title>Squash &amp; halloumi flatbreads with sweet chilli beetroot jam</title>
+    <cuisine_type1>French</cuisine_type1>
+    <cuisine_type2>Italian</cuisine_type2>
+    <difficulty>Advanced</difficulty>
+  </recipe>
+  <recipe>
+    <title>Simple squash risotto</title>
+    <cuisine_type1>French</cuisine_type1>
+    <cuisine_type2>French</cuisine_type2>
+    <difficulty>Intermediate</difficulty>
+  </recipe>
+  <recipe>
+    <title>App onlyCreamy beans. This is a premium piece of content available to subscribed users.</title>
+    <cuisine_type1>Italian</cuisine_type1>
+    <cuisine_type2>Italian</cuisine_type2>
+    <difficulty>Intermediate</difficulty>
+  </recipe>
+  <recipe>
+    <title>Slow cooker spiced root &amp; lentil casserole</title>
+    <cuisine_type1>Mexican</cuisine_type1>
+    <cuisine_type2>Mexican</cuisine_type2>
+    <difficulty>Intermediate</difficulty>
+  </recipe>
+  <recipe>
+    <title>Squash &amp; spinach fusilli with pecans</title>
+    <cuisine_type1>French</cuisine_type1>
+    <cuisine_type2>Italian</cuisine_type2>
+    <difficulty>Intermediate</difficulty>
+  </recipe>
+  <recipe>
+    <title>Easy vegetable curry</title>
+    <cuisine_type1>Italian</cuisine_type1>
+    <cuisine_type2>French</cuisine_type2>
+    <difficulty>Beginner</difficulty>
+  </recipe>
+  <recipe>
+    <title>Sausage &amp; butternut squash shells</title>
+    <cuisine_type1>Italian</cuisine_type1>
+    <cuisine_type2>Indian</cuisine_type2>
+    <difficulty>Intermediate</difficulty>
+  </recipe>
+  <recipe>
+    <title>Autumn vegetable soup with cheesy toasts</title>
+    <cuisine_type1>Indian</cuisine_type1>
+    <cuisine_type2>Indian</cuisine_type2>
+    <difficulty>Advanced</difficulty>
+  </recipe>
+  <recipe>
+    <title>Mushroom &amp; sausage pasta</title>
+    <cuisine_type1>French</cuisine_type1>
+    <cuisine_type2>Italian</cuisine_type2>
+    <difficulty>Advanced</difficulty>
+  </recipe>
+  <recipe>
+    <title>Creamy pumpkin &amp; lentil soup</title>
+    <cuisine_type1>Italian</cuisine_type1>
+    <cuisine_type2>Asian</cuisine_type2>
+    <difficulty>Beginner</difficulty>
+  </recipe>
+  <recipe>
+    <title>Curried parsnip soup</title>
+    <cuisine_type1>Asian</cuisine_type1>
+    <cuisine_type2>French</cuisine_type2>
+    <difficulty>Advanced</difficulty>
+  </recipe>
+  <recipe>
+    <title>Red onion gravy</title>
+    <cuisine_type1>Asian</cuisine_type1>
+    <cuisine_type2>Mexican</cuisine_type2>
+    <difficulty>Advanced</difficulty>
+  </recipe>
+  <recipe>
+    <title>Butternut squash pilaf</title>
+    <cuisine_type1>Mexican</cuisine_type1>
+    <cuisine_type2>Mexican</cuisine_type2>
+    <difficulty>Beginner</difficulty>
+  </recipe>
+<recipe><title>Tiramisu</title><cuisine_type1>Italian</cuisine_type1><cuisine_type2>European</cuisine_type2><difficulty>Intermediate</difficulty></recipe></recipes>
+</recipe_system>
