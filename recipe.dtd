@@ -1,0 +1,14 @@
+<!ELEMENT recipe_system (users, recipes)>
+<!ELEMENT users (user+)>
+<!ELEMENT user (name, surname, skill_level, preferred_cuisine)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT surname (#PCDATA)>
+<!ELEMENT skill_level (#PCDATA)>
+<!ELEMENT preferred_cuisine (#PCDATA)>
+
+<!ELEMENT recipes (recipe+)>
+<!ELEMENT recipe (title, cuisine_type1, cuisine_type2, difficulty)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT cuisine_type1 (#PCDATA)>
+<!ELEMENT cuisine_type2 (#PCDATA)>
+<!ELEMENT difficulty (#PCDATA)>
