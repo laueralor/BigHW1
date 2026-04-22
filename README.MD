@@ -23,6 +23,3 @@ This Java application facilitates recipe recommendations based on user profiles 
 1. **Compile:** `mvn clean compile`
 2. **Initialize Database:** `mvn exec:java -Dexec.mainClass="com.recipeapp.Scraper"`
 3. **Launch Application:** `mvn exec:java -Dexec.mainClass="com.recipeapp.MainUI"`
-
-## GitHub Repository
-[cite_start][Link to your PUBLIC repository: https://github.com/laueralor/BigHW1.git]
